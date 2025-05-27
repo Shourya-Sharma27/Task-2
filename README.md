@@ -1,4 +1,4 @@
-# Task-2-
+# Task-2
 Comprises of the task assigned on 27-05-2025 and observations made 
 1.	Spelling Mistakes
 Words like "detetced" (should be detected) and "unknow device" (should be unknown device) show that the sender is careless or fake. Real companies check their emails before sending them.
